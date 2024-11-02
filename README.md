@@ -66,7 +66,7 @@ x2: (-1)
 x3: (-2)
 ```
 
-### Commandline
+### Command line
 python -m cubicequation
 
 - *Help*: python -m cubicequation  -h
