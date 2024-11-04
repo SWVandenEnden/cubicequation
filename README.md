@@ -72,3 +72,5 @@ python -m cubicequation
 - *Help*: python -m cubicequation  -h
 - *Cubic solution*: python -m cubicequation 1 2 3 4
 
+### Graphical user interface
+https://github.com/SWVandenEnden/websym3
