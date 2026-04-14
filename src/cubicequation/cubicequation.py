@@ -257,7 +257,7 @@ class CubicEquation():
       self._output.writeLine( str( oOrgForm ) )
       self._output.writeLine( '' )
 
-      self._output.writeLine( 'Based on <a href="https://en.wikipedia.org/wiki/Cubic_equation">https://en.wikipedia.org/wiki/Cubic_equation</a>' )
+      self._output.writeLine( 'Based on <a target="_blank" href="https://en.wikipedia.org/wiki/Cubic_equation">https://en.wikipedia.org/wiki/Cubic_equation</a>' )
       self._output.writeLine( '' )
 
       self._output.writeSymExpress( oDelta0, 'Delta 0' )
